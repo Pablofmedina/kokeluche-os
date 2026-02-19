@@ -1,0 +1,19 @@
+﻿Fecha,Origen,Tipo,Ubicacion,Detalle,DetalleItems,Total,Pago,Garzon
+2026-02-19 13:05,,Delivery,0,Pulpa al sartén + Papas fritas,,6000,0,
+2026-02-19 13:06,,Delivery,0,Bistec al sartén + Papas fritas,,7000,0,
+2026-02-19 13:06,,Local,0,Pollo asado + Papas fritas,,5500,0,
+13:11,,Delivery,0,Saltado pollo + Papas rústicas,,7000,0,
+13:28,,🏠 Local,0,Pollo asado + Arroz,,5500,0,
+13:29,,🏠 Local,Los Quelues 20 ,Pollo asado + Arroz,,5500,0,
+13:29,,🏠 Local,Los Quelues 20 ,Pollo asado + Arroz,,5500,0,
+13:29,,🏠 Local,Los Quelues 20 ,Pollo asado + Arroz,,5500,0,
+13:32,,🏠 Local,Sol naciente 1063,Pollo asado + Papas fritas,,5500,0,
+13:32,,🏠 Local,Sol naciente 1063,Pollo asado + Papas fritas,,5500,0,
+13:53,,🏠 Local,mesa 1,Pollo asado + Papas fritas,,5500,0,
+13:57,,🏠 Local (Mesa),Mesa 1,Bistec + Papas fritas,,6500,0,
+14:08,,Local,Mesa 1,0,,0,Transferencia,
+14:17,,Local,Mesa 1,Bistec + Papas fritas,,6500,Empresa,
+19/02 15:36,,Local,Mesa 2,Pollo asado + Papas fritas,,5500,Efectivo,
+19/02 16:02,,Local,Mesa 2,Pollo asado + Papas fritas,,5500,Efectivo,
+2026-02-19 16:20:22,📥 WhatsApp,Local,Mesa 2,Pollo asado + Papas fritas,"[{""item"": ""Pollo asado + Papas fritas"", ""precio"": 5500}]",5500,Transferencia,Garzón 1
+2026-02-19 16:50:36,🙋‍♂️ Presencial,Local,Mesa 2,Pollo asado + pure / Coca Cola 350cc,"[{""item"": ""Pollo asado + pure"", ""precio"": 5500, ""type"": ""plato"", ""plato"": ""Pollo asado"", ""acomp"": ""pure"", ""qty"": 1, ""unit_price"": 5500}, {""item"": ""Coca Cola 350cc"", ""precio"": 1500, ""type"": ""bebida"", ""bebida"": ""Coca Cola 350cc"", ""qty"": 1, ""unit_price"": 1500}]",7000,Transferencia,Angelica
